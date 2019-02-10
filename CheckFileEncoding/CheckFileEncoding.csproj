@@ -83,5 +83,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UCharDetSharp\UCharDetSharp\UCharDetSharp.csproj">
+      <Project>{423eb0c1-fd72-4e18-a300-12b0a9d197dc}</Project>
+      <Name>UCharDetSharp</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

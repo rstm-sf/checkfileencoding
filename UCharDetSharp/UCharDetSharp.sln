@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckFileEncoding", "CheckFileEncoding\CheckFileEncoding.csproj", "{E5DDA4AC-5C6D-460E-BBF3-012A8A053B1F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCharDetSharp", "UCharDetSharp\UCharDetSharp\UCharDetSharp.csproj", "{423EB0C1-FD72-4E18-A300-12B0A9D197DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCharDetSharp", "UCharDetSharp\UCharDetSharp.csproj", "{423EB0C1-FD72-4E18-A300-12B0A9D197DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5DDA4AC-5C6D-460E-BBF3-012A8A053B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5DDA4AC-5C6D-460E-BBF3-012A8A053B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5DDA4AC-5C6D-460E-BBF3-012A8A053B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5DDA4AC-5C6D-460E-BBF3-012A8A053B1F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{423EB0C1-FD72-4E18-A300-12B0A9D197DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{423EB0C1-FD72-4E18-A300-12B0A9D197DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{423EB0C1-FD72-4E18-A300-12B0A9D197DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AFDB167B-605F-40C4-BDCA-2197F0381BD0}
+		SolutionGuid = {CA70058A-F542-4A2F-A5FC-1D76B694B7FF}
 	EndGlobalSection
 EndGlobal
